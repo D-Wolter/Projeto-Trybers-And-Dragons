@@ -1,5 +1,5 @@
 # Projeto-Trybers-And-Dragons
-Neste projeto foi desenvolvido os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game)
+Neste projeto foi desenvolvido os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG.
 
 ## Stack utilizada
 Back-end: Javascript, Typescript, Node.js, POO, SOLID, Docker
