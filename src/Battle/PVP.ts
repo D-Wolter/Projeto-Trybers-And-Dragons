@@ -1,8 +1,13 @@
 import Battle from './Battle';
-import Fighter from '../Fighter';
+import Character from '../Character';
+import Monster from '../Monster';
+import Fighter, { SimpleFighter } from '../Fighter';
 
 class PVP extends Battle {
-  constructor(player: Fighter, private _player2: Fighter) {
+  constructor(
+    player: Fighter | Character,
+    private _player2: Fighter | SimpleFighter | Monster,
+  ) {
     super(player);
   }
 
